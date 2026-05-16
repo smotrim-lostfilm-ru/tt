@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tt.smotrim-lostfilm.ru/sitemap1.xml
+Sitemap: https://tt.smotrim-lostfilm.ru/sitemap.xml
